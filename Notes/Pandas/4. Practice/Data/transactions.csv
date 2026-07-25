@@ -1,0 +1,251 @@
+txn_id,txn_date,emp_id,amount_inr,txn_type,txn_status,category,description
+TXN00001,2023-02-18,E002,29394.9,Refund,Success,Purchase,Transaction reference 0
+TXN00002,2023-01-25,E005,99919.21,Credit,Failed,salary,Transaction reference 1
+TXN00003,2022-07-24,E038,26162.99,Credit,Processing,utilities,Transaction reference 2
+TXN00004,2023-09-06,E033,96189.63,Credit,Failed,Purchase,Transaction reference 3
+TXN00005,2022-07-03,E003,,Debit,Success,Purchase,Transaction reference 4
+TXN00006,2022-08-24,E034,111580.91,Refund,Success,Transfer,Transaction reference 5
+TXN00007,2022-09-12,E048,130008.24,Credit,Success,Vendor Payment,Transaction reference 6
+TXN00008,2022-05-17,E021,35069.87,Credit,Pending,Refund,Transaction reference 7
+TXN00009,2024-02-18,E033,129145.56,Credit,Pending,utilities,Transaction reference 8
+TXN00010,2022-03-30,E019,52157.69,Debit,Success,salary,Transaction reference 9
+TXN00011,2022-09-15,E030,60285.14,Debit,Success,Transfer,Transaction reference 10
+TXN00012,2024-01-17,E003,17293.66,Transfer,Success,Purchase,Transaction reference 11
+TXN00013,2023-01-28,E048,79996.39,Credit,Success,Vendor Payment,Transaction reference 12
+TXN00014,2023-06-28,E003,693.22,Debit,Success,Refund,Transaction reference 13
+TXN00015,2023-12-02,E031,46924.95,Refund,Success,Salary,Transaction reference 14
+TXN00016,2023-12-19,E012,101008.93,Refund,Pending,salary,Transaction reference 15
+TXN00017,2023-07-06,E011,112257.95,Transfer,Pending,Purchase,Transaction reference 16
+TXN00018,2022-04-02,E019,25520.27,Credit,Success,Transfer,Transaction reference 17
+TXN00019,2023-10-01,E041,117838.3,Debit,Success,Salary,Transaction reference 18
+TXN00020,2023-05-17,E025,66895.47,Refund,Failed,Salary,Transaction reference 19
+TXN00021,2022-07-24,E022,31191.84,Credit,Pending,Salary,Transaction reference 20
+TXN00022,2023-03-08,E003,112412.25,Credit,Success,Salary,Transaction reference 21
+TXN00023,2024-01-10,E013,110969.36,Transfer,Success,Salary,Transaction reference 22
+TXN00024,2023-09-20,E043,70469.66,Credit,Failed,Salary,Transaction reference 23
+TXN00025,2023-08-26,E018,79889.14,Credit,Success,Refund,Transaction reference 24
+TXN00026,2022-08-10,E037,93160.66,Credit,Success,PURCHASE,Transaction reference 25
+TXN00027,2024-03-22,E031,94938.43,Refund,Success,Transfer,Transaction reference 26
+TXN00028,2024-03-18,E037,114873.72,Debit,Pending,Transfer,Transaction reference 27
+TXN00029,2023-01-18,E038,115455.97,Credit,Success,Transfer,Transaction reference 28
+TXN00030,2024-04-22,E038,30442.55,Debit,Success,Salary,Transaction reference 29
+TXN00031,2023-02-02,E047,3582.36,Debit,Failed,Purchase,Transaction reference 30
+TXN00032,2024-06-01,E026,16220.15,Credit,Success,Salary,Transaction reference 31
+TXN00033,2023-11-30,E003,46471.41,Debit,Success,Salary,Transaction reference 32
+TXN00034,2022-08-06,E013,87286.39,Credit,Processing,Salary,Transaction reference 33
+TXN00035,2022-06-05,E039,144190.12,Credit,Processing,Vendor Payment,Transaction reference 34
+TXN00036,2023-04-18,E006,62807.56,Debit,Success,PURCHASE,Transaction reference 35
+TXN00037,2023-11-08,E032,55699.36,Credit,Success,Purchase,Transaction reference 36
+TXN00038,2022-07-03,E034,83805.69,Refund,Success,Refund,Transaction reference 37
+TXN00039,2024-05-20,E010,142272.77,Transfer,Processing,Refund,Transaction reference 38
+TXN00040,2023-08-04,E014,,Debit,Pending,Purchase,Transaction reference 39
+TXN00041,2022-12-13,E011,44628.29,Debit,Success,Salary,Transaction reference 40
+TXN00042,2022-03-26,E046,113621.18,Transfer,Failed,Purchase,Transaction reference 41
+TXN00043,2024-01-04,E050,148777.22,Credit,Failed,Purchase,Transaction reference 42
+TXN00044,2023-06-26,E031,119146.09,Transfer,Pending,Vendor Payment,Transaction reference 43
+TXN00045,2023-11-25,E022,60067.76,Debit,Success,Purchase,Transaction reference 44
+TXN00046,2024-03-04,E008,26251.81,Debit,Success,Refund,Transaction reference 45
+TXN00047,2022-03-31,E031,69392.93,Refund,Success,Vendor Payment,Transaction reference 46
+TXN00048,2023-04-26,E033,19706.06,Credit,Success,Salary,Transaction reference 47
+TXN00049,2022-11-20,E008,20034.21,Credit,Success,utilities,Transaction reference 48
+TXN00050,2023-02-17,E029,67259.0,Refund,Success,Purchase,Transaction reference 49
+TXN00051,2022-02-13,E046,127608.25,Credit,Failed,Purchase,Transaction reference 50
+TXN00052,2022-10-03,E039,105425.19,Transfer,Success,Salary,Transaction reference 51
+TXN00053,2023-07-26,E048,63015.37,Debit,Success,Vendor Payment,Transaction reference 52
+TXN00054,2022-01-08,E040,143172.56,Debit,Success,Salary,Transaction reference 53
+TXN00055,2023-03-12,E010,27235.69,Transfer,Success,Transfer,Transaction reference 54
+TXN00056,2022-07-28,E004,37900.07,Credit,Success,Purchase,Transaction reference 55
+TXN00057,2023-01-07,E049,41399.91,Credit,Failed,Salary,Transaction reference 56
+TXN00058,2023-07-02,E034,86113.22,Debit,Success,Purchase,Transaction reference 57
+TXN00059,2022-03-24,E010,133519.68,Debit,Pending,Salary,Transaction reference 58
+TXN00060,2023-04-19,E026,57706.81,Refund,Success,PURCHASE,Transaction reference 59
+TXN00061,2023-06-16,E015,124086.48,Credit,Success,utilities,Transaction reference 60
+TXN00062,2022-07-22,E015,140573.73,Refund,Pending,Salary,Transaction reference 61
+TXN00063,2023-09-13,E017,,Debit,Success,Purchase,Transaction reference 62
+TXN00064,2023-04-19,E047,133992.95,Debit,Success,Transfer,Transaction reference 63
+TXN00065,2022-02-22,E009,133445.29,Credit,Pending,Transfer,Transaction reference 64
+TXN00066,2023-01-02,E041,71714.83,Refund,Success,Vendor Payment,Transaction reference 65
+TXN00067,2022-05-13,E010,25837.51,Credit,Processing,Refund,Transaction reference 66
+TXN00068,2022-08-10,E002,11674.43,Debit,Success,Purchase,Transaction reference 67
+TXN00069,2024-01-03,E017,36316.17,Transfer,Success,Vendor Payment,Transaction reference 68
+TXN00070,2022-06-14,E018,69250.87,Credit,Pending,Vendor Payment,Transaction reference 69
+TXN00071,2024-02-05,E023,2804.24,Debit,Processing,Refund,Transaction reference 70
+TXN00072,2024-03-21,E031,49797.08,Transfer,Pending,salary,Transaction reference 71
+TXN00073,2023-03-29,E013,74371.52,Credit,Success,Vendor Payment,Transaction reference 72
+TXN00074,2023-09-02,E025,50694.76,Refund,Success,Salary,Transaction reference 73
+TXN00075,2022-07-01,E029,110192.28,Refund,Success,Transfer,Transaction reference 74
+TXN00076,2023-05-31,E037,85657.88,Debit,Success,salary,Transaction reference 75
+TXN00077,2023-11-08,E020,80185.3,Transfer,Success,Vendor Payment,Transaction reference 76
+TXN00078,2022-06-30,E007,95209.38,Debit,Success,PURCHASE,Transaction reference 77
+TXN00079,2022-02-07,E034,87650.18,Credit,Success,Transfer,Transaction reference 78
+TXN00080,2022-04-23,E032,62383.86,Refund,Processing,Transfer,Transaction reference 79
+TXN00081,2022-01-24,E041,25314.64,Refund,Success,Transfer,Transaction reference 80
+TXN00082,2022-06-25,E047,,Credit,Success,Vendor Payment,Transaction reference 81
+TXN00083,2023-05-01,E004,7599.52,Credit,Success,Salary,Transaction reference 82
+TXN00084,2023-12-02,E044,5903.18,Credit,Processing,Salary,Transaction reference 83
+TXN00085,2024-04-19,E024,51687.27,Debit,Success,utilities,Transaction reference 84
+TXN00086,2023-03-06,E015,34878.4,Credit,Success,Vendor Payment,Transaction reference 85
+TXN00087,2022-03-25,E042,113450.09,Transfer,Pending,Salary,Transaction reference 86
+TXN00088,2023-03-12,E009,24198.25,Credit,Success,Purchase,Transaction reference 87
+TXN00089,2023-10-10,E021,66142.62,Credit,Success,utilities,Transaction reference 88
+TXN00090,2022-03-30,E001,104482.83,Credit,Success,Salary,Transaction reference 89
+TXN00091,2022-05-27,E001,62948.73,Debit,Processing,Vendor Payment,Transaction reference 90
+TXN00092,2022-11-14,,,Refund,Success,Transfer,Transaction reference 91
+TXN00093,2023-09-25,E045,18016.52,Credit,Success,Purchase,Transaction reference 92
+TXN00094,2022-01-06,E009,26189.62,Credit,Processing,Salary,Transaction reference 93
+TXN00095,2023-01-26,E028,41685.89,Refund,Pending,Purchase,Transaction reference 94
+TXN00096,2022-12-04,E033,55092.72,Debit,Processing,Refund,Transaction reference 95
+TXN00097,2022-05-20,E001,,Credit,Success,utilities,Transaction reference 96
+TXN00098,2023-06-20,E022,,Transfer,Failed,Vendor Payment,Transaction reference 97
+TXN00099,2023-02-20,E034,84070.56,Refund,Success,Salary,Transaction reference 98
+TXN00100,2022-07-25,E028,105422.01,Credit,Success,Salary,Transaction reference 99
+TXN00101,2024-03-17,,98063.49,Debit,Processing,Vendor Payment,Transaction reference 100
+TXN00102,2022-02-26,E050,122372.77,Debit,Success,Purchase,Transaction reference 101
+TXN00103,2023-10-18,E025,12678.72,Debit,Success,Salary,Transaction reference 102
+TXN00104,2022-08-05,E047,101842.19,Debit,Success,Salary,Transaction reference 103
+TXN00105,2023-03-30,E024,108849.81,Credit,Pending,Transfer,Transaction reference 104
+TXN00106,2022-09-21,E015,123848.38,Credit,Success,Purchase,Transaction reference 105
+TXN00107,2023-07-13,E050,22954.54,Credit,Success,utilities,Transaction reference 106
+TXN00108,2023-02-18,E047,13433.02,Debit,Success,salary,Transaction reference 107
+TXN00109,2024-04-24,E005,113997.95,Debit,Success,Purchase,Transaction reference 108
+TXN00110,2024-02-22,E023,97168.52,Debit,Pending,Refund,Transaction reference 109
+TXN00111,2022-05-10,E037,25401.3,Credit,Success,Purchase,Transaction reference 110
+TXN00112,2022-12-29,E046,130695.39,Debit,Success,Purchase,Transaction reference 111
+TXN00113,2023-12-13,E011,107682.85,Refund,Success,Purchase,Transaction reference 112
+TXN00114,2023-05-03,E040,92440.11,Debit,Success,Vendor Payment,Transaction reference 113
+TXN00115,2022-02-27,E010,114202.82,Credit,Pending,Salary,Transaction reference 114
+TXN00116,2022-05-15,E049,91857.51,Refund,Success,Transfer,Transaction reference 115
+TXN00117,2024-01-27,E007,51343.74,Credit,Processing,Refund,Transaction reference 116
+TXN00118,2024-06-03,E003,8395.33,Refund,Failed,Salary,Transaction reference 117
+TXN00119,2024-01-06,E035,51689.12,Credit,Success,Purchase,Transaction reference 118
+TXN00120,2023-09-07,E023,93946.78,Credit,Success,Purchase,Transaction reference 119
+TXN00121,2024-03-08,E026,28604.54,Debit,Success,PURCHASE,Transaction reference 120
+TXN00122,2024-02-05,E003,27346.52,Credit,Success,utilities,Transaction reference 121
+TXN00123,2022-06-04,E021,17114.81,Credit,Failed,Purchase,Transaction reference 122
+TXN00124,2023-09-15,E045,74735.33,Transfer,Success,Vendor Payment,Transaction reference 123
+TXN00125,2023-02-23,E019,145012.78,Refund,Success,Transfer,Transaction reference 124
+TXN00126,2022-05-08,E017,109738.45,Credit,Success,Vendor Payment,Transaction reference 125
+TXN00127,2022-04-09,E010,2374.35,Credit,Failed,Purchase,Transaction reference 126
+TXN00128,2022-05-02,E047,56837.11,Debit,Success,utilities,Transaction reference 127
+TXN00129,2022-05-28,E005,102477.23,Debit,Failed,Salary,Transaction reference 128
+TXN00130,2022-10-31,E016,14996.47,Credit,Success,PURCHASE,Transaction reference 129
+TXN00131,2022-06-28,E043,119330.96,Debit,Success,Transfer,Transaction reference 130
+TXN00132,2022-07-01,E004,35685.44,Debit,Pending,Vendor Payment,Transaction reference 131
+TXN00133,2023-02-24,E019,66855.42,Credit,Failed,Purchase,Transaction reference 132
+TXN00134,2022-05-30,E007,119043.86,Credit,Success,Salary,Transaction reference 133
+TXN00135,2022-08-01,E035,131192.34,Credit,Success,Purchase,Transaction reference 134
+TXN00136,2024-06-20,E006,12486.74,Refund,Success,Vendor Payment,Transaction reference 135
+TXN00137,2023-07-29,E040,122681.24,Credit,Processing,Vendor Payment,Transaction reference 136
+TXN00138,2022-11-23,E028,,Credit,Pending,Salary,Transaction reference 137
+TXN00139,2024-02-29,E034,125867.25,Credit,Success,Purchase,Transaction reference 138
+TXN00140,2023-05-27,E007,116219.74,Debit,Success,Salary,Transaction reference 139
+TXN00141,2024-03-28,E020,56280.84,Credit,Processing,Salary,Transaction reference 140
+TXN00142,2022-08-28,E033,47352.75,Debit,Processing,Vendor Payment,Transaction reference 141
+TXN00143,2024-05-16,E007,7317.29,Credit,Pending,Vendor Payment,Transaction reference 142
+TXN00144,2022-09-21,E030,59780.72,Credit,Success,Vendor Payment,Transaction reference 143
+TXN00145,2022-05-01,E015,45445.33,Credit,Success,Purchase,Transaction reference 144
+TXN00146,2024-05-28,E010,24244.78,Credit,Success,Refund,Transaction reference 145
+TXN00147,2024-04-22,E048,141574.7,Transfer,Success,PURCHASE,Transaction reference 146
+TXN00148,2023-01-06,E009,132202.92,Transfer,Success,Purchase,Transaction reference 147
+TXN00149,2022-07-10,E024,121547.62,Transfer,Success,Vendor Payment,Transaction reference 148
+TXN00150,2023-11-26,E044,44711.92,Refund,Success,Vendor Payment,Transaction reference 149
+TXN00151,2022-03-16,E007,18978.93,Refund,Success,Vendor Payment,Transaction reference 150
+TXN00152,2023-05-29,E021,64410.72,Debit,Failed,Salary,Transaction reference 151
+TXN00153,2022-10-22,E033,11308.96,Debit,Success,Salary,Transaction reference 152
+TXN00154,2022-01-12,E017,53384.44,Debit,Failed,Vendor Payment,Transaction reference 153
+TXN00155,2023-08-23,E028,91168.72,Transfer,Success,Vendor Payment,Transaction reference 154
+TXN00156,2024-05-02,E005,47940.23,Debit,Success,Purchase,Transaction reference 155
+TXN00157,2022-02-18,E014,50512.89,Debit,Success,Purchase,Transaction reference 156
+TXN00158,2022-12-12,E038,49379.76,Debit,Success,Salary,Transaction reference 157
+TXN00159,2022-08-10,E049,124442.44,Refund,Processing,Refund,Transaction reference 158
+TXN00160,2023-01-22,E032,5667.74,Debit,Failed,Vendor Payment,Transaction reference 159
+TXN00161,2023-02-13,E045,122176.43,Credit,Processing,Salary,Transaction reference 160
+TXN00162,2022-12-11,E012,91735.76,Debit,Success,Salary,Transaction reference 161
+TXN00163,2024-04-22,E023,82422.47,Credit,Failed,Purchase,Transaction reference 162
+TXN00164,2024-04-11,E042,104197.89,Credit,Failed,Purchase,Transaction reference 163
+TXN00165,2023-02-13,E046,3271.95,Credit,Success,Vendor Payment,Transaction reference 164
+TXN00166,2023-01-31,E035,129532.89,Debit,Failed,Transfer,Transaction reference 165
+TXN00167,2023-03-01,E038,43671.76,Transfer,Success,Vendor Payment,Transaction reference 166
+TXN00168,2024-04-13,E018,60231.82,Debit,Success,Transfer,Transaction reference 167
+TXN00169,2023-01-15,E050,77084.7,Refund,Pending,Purchase,Transaction reference 168
+TXN00170,2023-07-02,E032,135235.64,Credit,Success,Purchase,Transaction reference 169
+TXN00171,2022-04-05,E041,34560.49,Credit,Success,Refund,Transaction reference 170
+TXN00172,2022-07-05,E008,78855.86,Transfer,Success,Transfer,Transaction reference 171
+TXN00173,2024-06-19,E039,148750.31,Debit,Success,PURCHASE,Transaction reference 172
+TXN00174,2022-02-08,E001,32218.35,Debit,Success,Refund,Transaction reference 173
+TXN00175,2023-01-17,E011,97347.0,Credit,Success,Salary,Transaction reference 174
+TXN00176,2024-01-09,E039,24993.4,Debit,Success,Vendor Payment,Transaction reference 175
+TXN00177,2024-05-27,E003,85293.61,Credit,Success,Salary,Transaction reference 176
+TXN00178,2023-02-13,E005,65489.35,Credit,Success,Salary,Transaction reference 177
+TXN00179,2024-02-29,E015,85051.46,Credit,Processing,Purchase,Transaction reference 178
+TXN00180,2023-03-31,E023,4792.89,Credit,Processing,Vendor Payment,Transaction reference 179
+TXN00181,2022-08-24,E033,30704.4,Credit,Pending,Purchase,Transaction reference 180
+TXN00182,2022-11-15,E029,135135.27,Credit,Processing,Purchase,Transaction reference 181
+TXN00183,2024-05-24,E034,27372.27,Refund,Pending,Purchase,Transaction reference 182
+TXN00184,2023-11-02,E014,45420.47,Debit,Processing,Salary,Transaction reference 183
+TXN00185,2022-08-20,E038,148385.67,Credit,Success,utilities,Transaction reference 184
+TXN00186,2023-11-01,E041,38562.53,Debit,Success,Transfer,Transaction reference 185
+TXN00187,2024-01-08,E048,87173.25,Transfer,Success,Transfer,Transaction reference 186
+TXN00188,2022-11-15,E025,64879.01,Credit,Success,Salary,Transaction reference 187
+TXN00189,2022-04-19,E046,981.34,Transfer,Success,Transfer,Transaction reference 188
+TXN00190,2024-06-14,E029,96713.89,Transfer,Success,PURCHASE,Transaction reference 189
+TXN00191,2023-12-06,E012,75695.22,Credit,Pending,Salary,Transaction reference 190
+TXN00192,2024-01-09,E013,140573.15,Credit,Processing,Purchase,Transaction reference 191
+TXN00193,2022-11-18,E032,146510.55,Debit,Processing,Purchase,Transaction reference 192
+TXN00194,2022-08-12,E039,11566.33,Transfer,Success,Salary,Transaction reference 193
+TXN00195,2024-02-22,E022,88440.07,Credit,Success,Vendor Payment,Transaction reference 194
+TXN00196,2024-04-08,E020,51527.07,Credit,Success,Refund,Transaction reference 195
+TXN00197,2023-12-30,,20247.19,Credit,Success,Vendor Payment,Transaction reference 196
+TXN00198,2023-11-22,E029,137580.69,Credit,Failed,utilities,Transaction reference 197
+TXN00199,2023-12-30,E008,14103.61,Debit,Success,Vendor Payment,Transaction reference 198
+TXN00200,2022-09-13,E001,75543.37,Credit,Success,Refund,Transaction reference 199
+TXN00201,2023-01-28,E038,35276.82,Transfer,Success,Purchase,Transaction reference 200
+TXN00202,2022-10-31,E004,86145.84,Debit,Pending,Refund,Transaction reference 201
+TXN00203,2023-03-25,E022,31655.59,Credit,Pending,Salary,Transaction reference 202
+TXN00204,2024-02-09,E026,128282.92,Debit,Success,Vendor Payment,Transaction reference 203
+TXN00205,2022-03-24,E017,65732.33,Transfer,Success,Purchase,Transaction reference 204
+TXN00206,2024-06-22,E016,30650.58,Credit,Success,Purchase,Transaction reference 205
+TXN00207,2023-03-25,E020,120196.52,Transfer,Success,Purchase,Transaction reference 206
+TXN00208,2023-03-08,E020,20624.77,Debit,Success,Salary,Transaction reference 207
+TXN00209,2022-09-20,E047,110853.74,Refund,Failed,Vendor Payment,Transaction reference 208
+TXN00210,2022-03-13,E006,37638.78,Transfer,Success,Purchase,Transaction reference 209
+TXN00211,2023-05-31,E009,126214.72,Debit,Failed,Vendor Payment,Transaction reference 210
+TXN00212,2022-10-28,E038,38851.04,Debit,Success,Vendor Payment,Transaction reference 211
+TXN00213,2023-12-03,E004,97895.22,Credit,Failed,Purchase,Transaction reference 212
+TXN00214,2024-06-14,E005,,Debit,Success,utilities,Transaction reference 213
+TXN00215,2022-11-25,E021,75922.94,Debit,Success,Vendor Payment,Transaction reference 214
+TXN00216,2024-03-18,,130664.8,Credit,Success,Refund,Transaction reference 215
+TXN00217,2023-05-04,E037,81711.59,Debit,Success,PURCHASE,Transaction reference 216
+TXN00218,2023-07-01,E022,35593.63,Credit,Pending,Purchase,Transaction reference 217
+TXN00219,2022-05-11,E037,78911.28,Refund,Success,utilities,Transaction reference 218
+TXN00220,2022-09-20,E013,103221.09,Credit,Failed,Purchase,Transaction reference 219
+TXN00221,2023-03-18,E012,,Refund,Success,Salary,Transaction reference 220
+TXN00222,2024-06-21,E015,78893.75,Credit,Failed,Purchase,Transaction reference 221
+TXN00223,2022-10-25,E046,11336.1,Debit,Success,Purchase,Transaction reference 222
+TXN00224,2023-02-24,E028,37949.36,Debit,Success,Vendor Payment,Transaction reference 223
+TXN00225,2023-11-06,E012,115184.24,Credit,Success,Salary,Transaction reference 224
+TXN00226,2024-04-26,E014,50461.27,Refund,Processing,Vendor Payment,Transaction reference 225
+TXN00227,2023-09-18,E004,28768.77,Transfer,Success,Purchase,Transaction reference 226
+TXN00228,2022-06-13,E038,,Credit,Success,Refund,Transaction reference 227
+TXN00229,2022-10-17,E003,4925.23,Refund,Success,PURCHASE,Transaction reference 228
+TXN00230,2023-01-24,E047,6216.88,Credit,Success,Refund,Transaction reference 229
+TXN00231,2023-11-26,E001,9791.94,Credit,Success,Refund,Transaction reference 230
+TXN00232,2023-11-26,E021,28848.7,Transfer,Success,Vendor Payment,Transaction reference 231
+TXN00233,2023-09-11,E002,7970.89,Transfer,Success,Vendor Payment,Transaction reference 232
+TXN00234,2024-06-02,E028,44281.58,Transfer,Success,Vendor Payment,Transaction reference 233
+TXN00235,2023-09-26,E029,40599.87,Credit,Success,Transfer,Transaction reference 234
+TXN00236,2023-11-14,E017,138507.48,Debit,Success,Purchase,Transaction reference 235
+TXN00237,2024-01-02,E046,38609.99,Transfer,Success,Purchase,Transaction reference 236
+TXN00238,2023-03-27,E024,86799.5,Credit,Failed,Transfer,Transaction reference 237
+TXN00239,2022-07-19,E013,44652.19,Refund,Success,Refund,Transaction reference 238
+TXN00240,2023-01-24,E035,108990.83,Debit,Success,Salary,Transaction reference 239
+TXN00012,2022-12-11,E015,,Transfer,Pending,Purchase,Transaction reference 240
+TXN00045,2024-06-27,E050,52013.07,Debit,Success,Purchase,Transaction reference 241
+TXN00078,2022-07-22,E027,21772.73,Debit,Success,Purchase,Transaction reference 242
+TXN00110,2022-12-20,E016,46106.42,Refund,Success,Salary,Transaction reference 243
+TXN00142,2022-01-05,E048,39426.53,Debit,Success,Vendor Payment,Transaction reference 244
+TXN00175,2023-11-15,E038,68132.88,Debit,Processing,Vendor Payment,Transaction reference 245
+TXN00200,2022-12-30,E018,141560.55,Credit,Pending,Vendor Payment,Transaction reference 246
+TXN00220,2023-12-13,E043,4569.06,Credit,Success,Purchase,Transaction reference 247
+TXN00015,2022-10-30,E015,35124.17,Credit,Success,Transfer,Transaction reference 248
+TXN00068,2024-05-20,E007,91435.86,Transfer,Success,Refund,Transaction reference 249

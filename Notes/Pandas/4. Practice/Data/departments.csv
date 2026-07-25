@@ -1,0 +1,9 @@
+dept_id,department_name,manager_name,budget_inr,location
+D01,Engineering,Rajesh Kumar,5000000,Bengaluru
+D02,Marketing,Priya Mehta,3000000,Mumbai
+D03,Sales,Amit Shah,4000000,Delhi
+D04,Human Resources,Sunita Rao,2000000,Hyderabad
+D05,Finance,,6000000,Pune
+D06,Operations,Vikram Singh,3500000,Chennai
+D07,engineering,Rajesh Kumar,5000000,Bengaluru
+D08,Data Science,,4500000,Bengaluru

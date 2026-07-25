@@ -1,0 +1,201 @@
+order_id,customer_id,product_id,order_date,quantity,amount_inr,order_status,payment_method,payment_status
+O0001,C041,P028,2024-04-21,9,116991.0,Processing,Debit Card,Paid
+O0002,C008,P021,2022-03-08,1,2499.0,Shipped,EMI,Failed
+O0003,C002,P010,2023-02-15,6,29994.0,Shipped,Debit Card,Paid
+O0004,C048,P027,2023-05-19,1,1299.0,Returned,UPI,Pending Refund
+O0005,C018,P021,2022-03-17,1,4999.0,Pending,Credit Card,Paid
+O0006,C016,P017,2023-08-14,10,14990.0,Cancelled,Cash on Delivery,Pending Refund
+O0007,C015,P020,2023-10-07,8,,Delivered,UPI,Paid
+O0008,C009,P007,2023-12-04,9,206991.0,Shipped,Credit Card,Failed
+O0009,C048,P005,2022-02-24,9,35991.0,Shipped,Credit Card,Paid
+O0010,C007,P012,2022-06-05,3,74997.0,Delivered,UPI,Paid
+O0011,C044,P025,2022-06-02,1,1299.0,Delivered,UPI,Paid
+O0012,C048,P006,2024-04-10,9,13491.0,Delivered,Credit Card,Paid
+O0013,C035,P018,2023-07-31,2,,Delivered,Cash on Delivery,Paid
+O0014,C006,P025,2022-11-08,3,4497.0,Shipped,EMI,Failed
+O0015,C038,P030,2022-03-29,2,49998.0,Pending,Debit Card,Paid
+O0016,C028,P017,2022-09-12,10,249990.0,Delivered,Credit Card,Paid
+O0017,C003,P030,2022-05-02,2,25998.0,Cancelled,Net Banking,Pending Refund
+O0018,C002,P001,2023-07-26,4,9996.0,Cancelled,Debit Card,Pending Refund
+O0019,C006,P020,2024-02-22,7,9093.0,Pending,UPI,Failed
+O0020,C014,P011,2023-03-03,2,7998.0,Delivered,Debit Card,Paid
+O0021,C015,P016,2023-09-13,10,229990.0,Shipped,Credit Card,Pending
+O0022,C033,P001,2023-09-03,4,,Delivered,Net Banking,Paid
+O0023,C039,P004,2024-03-20,10,399990.0,Pending,Cash on Delivery,Paid
+O0024,C002,P030,2023-09-26,10,29990.0,Delivered,Credit Card,Paid
+O0025,C036,P012,2022-08-20,1,2999.0,Cancelled,UPI,Refunded
+O0026,C013,P029,2024-03-05,10,29990.0,Delivered,Debit Card,Paid
+O0027,C046,P027,2023-06-20,2,9998.0,Delivered,EMI,Paid
+O0028,C042,P026,2023-01-25,7,90993.0,Returned,Debit Card,Refunded
+O0029,C045,P010,2023-04-07,10,7990.0,Processing,EMI,Paid
+O0030,C035,P008,2023-03-30,10,5990.0,Processing,EMI,Pending
+O0031,C027,P002,2022-11-01,9,11691.0,Delivered,Credit Card,Paid
+O0032,C015,P008,2024-05-30,6,7794.0,Delivered,Net Banking,Paid
+O0033,C029,P029,2023-08-26,5,7495.0,Cancelled,Debit Card,Pending Refund
+O0034,C038,P019,2023-03-16,4,19996.0,Delivered,Cash on Delivery,Paid
+O0035,C018,P003,2022-11-09,6,,Delivered,Debit Card,Paid
+O0036,C052,P003,2023-08-06,4,29996.0,Cancelled,Net Banking,Refunded
+O0037,C001,P024,2023-09-28,5,124995.0,Shipped,Credit Card,Paid
+O0038,C049,P016,2022-03-03,7,5593.0,Pending,Credit Card,Paid
+O0039,C052,P027,2023-09-17,3,14997.0,Pending,UPI,Failed
+O0040,C011,P003,2024-01-28,5,39995.0,Shipped,Cash on Delivery,Paid
+O0041,C045,P025,2022-04-12,8,183992.0,Cancelled,Debit Card,Pending Refund
+O0042,C028,P018,2024-02-21,6,239994.0,Cancelled,Credit Card,Pending Refund
+O0043,C022,P025,2022-08-01,2,14998.0,Pending,Debit Card,Pending
+O0044,C018,P005,2023-10-03,1,5999.0,Delivered,Debit Card,Paid
+O0045,C010,P005,2022-08-05,8,7992.0,Returned,UPI,Pending Refund
+O0046,C014,P022,2022-09-28,10,89990.0,Delivered,Debit Card,Paid
+O0047,C049,P016,2023-11-08,10,,Delivered,Debit Card,Paid
+O0048,C022,P018,2022-03-25,2,49998.0,Cancelled,Debit Card,Refunded
+O0049,C007,P006,2022-06-10,2,17998.0,Pending,Credit Card,Pending
+O0050,C006,P009,2022-09-03,9,11691.0,Cancelled,UPI,Refunded
+O0051,C025,P017,2022-06-27,4,51996.0,Delivered,UPI,Paid
+O0052,C007,P028,2023-07-20,9,143991.0,Delivered,Credit Card,Paid
+O0053,C023,P020,2022-03-18,5,7495.0,Delivered,Net Banking,Paid
+O0054,C055,P014,2022-06-10,3,8997.0,Delivered,Credit Card,Paid
+O0055,C023,P007,2022-01-03,6,53994.0,Delivered,UPI,Paid
+O0056,C039,P030,2023-02-23,2,1198.0,Returned,UPI,Pending Refund
+O0057,C017,P018,2023-04-07,4,91996.0,Processing,Net Banking,Failed
+O0058,C052,P025,2023-12-07,6,539994.0,Cancelled,Debit Card,Pending Refund
+O0059,C003,P024,2023-09-01,5,4995.0,Processing,UPI,Pending
+O0060,C047,P023,2023-04-27,3,22497.0,Delivered,Net Banking,Paid
+O0061,C030,P007,2022-10-26,8,23992.0,Shipped,Cash on Delivery,Paid
+O0062,C035,P023,2022-02-03,9,22491.0,Delivered,Debit Card,Paid
+O0063,C008,P010,2022-08-26,5,39995.0,Cancelled,Credit Card,Pending Refund
+O0064,C025,P013,2022-10-23,10,39990.0,Processing,Debit Card,Paid
+O0065,C006,P022,2023-12-25,9,116991.0,Shipped,UPI,Pending
+O0066,C036,P021,2022-10-17,1,2499.0,Returned,EMI,Pending Refund
+O0067,C019,P012,2023-12-21,9,,Delivered,EMI,Paid
+O0068,C054,P015,2024-05-30,5,6495.0,Delivered,Debit Card,Paid
+O0069,C041,P029,2023-04-10,2,1198.0,Shipped,Debit Card,Paid
+O0070,C040,P017,2022-03-14,3,3897.0,Delivered,Debit Card,Paid
+O0071,C024,P015,2023-12-05,5,44995.0,Returned,UPI,Pending Refund
+O0072,C037,P004,2022-08-28,2,31998.0,Processing,Debit Card,Paid
+O0073,C013,P008,2022-09-28,2,15998.0,Delivered,UPI,Paid
+O0074,C046,P008,2024-03-17,9,22491.0,Cancelled,Credit Card,Pending Refund
+O0075,C005,P003,2024-03-21,3,4497.0,Shipped,Debit Card,Failed
+O0076,C003,P011,2023-10-03,5,4995.0,Shipped,Cash on Delivery,Failed
+O0077,C043,P001,2023-08-27,5,449995.0,Delivered,Debit Card,Paid
+O0078,C015,P019,2023-11-09,10,9990.0,Cancelled,UPI,Pending Refund
+O0079,C050,P018,2024-04-03,4,139996.0,Cancelled,UPI,Refunded
+O0080,C019,P008,2022-07-22,6,5994.0,Delivered,EMI,Paid
+O0081,C006,P019,2023-03-12,4,9996.0,Processing,EMI,Pending
+O0082,C055,P008,2022-04-28,5,44995.0,Delivered,EMI,Paid
+O0083,C015,P001,2023-07-12,9,44991.0,Pending,Debit Card,Pending
+O0084,C007,P003,2022-08-19,8,10392.0,Pending,Debit Card,Paid
+O0085,C025,P023,2023-10-26,5,12495.0,Delivered,UPI,Paid
+O0086,C018,P021,2022-06-02,1,799.0,Shipped,Net Banking,Paid
+O0087,C030,P002,2022-09-30,2,5998.0,Shipped,EMI,Pending
+O0088,C041,P008,2024-04-26,7,20993.0,Delivered,Credit Card,Paid
+O0089,C054,P003,2022-05-26,5,7495.0,Delivered,Credit Card,Paid
+O0090,C024,P029,2022-03-15,1,8999.0,Processing,UPI,Paid
+O0091,C011,P002,2022-03-03,1,89999.0,Cancelled,EMI,Refunded
+O0092,C024,P028,2022-06-19,6,209994.0,Delivered,Cash on Delivery,Paid
+O0093,C023,P011,2024-03-22,3,8997.0,Shipped,UPI,Failed
+O0094,C014,P003,2022-11-11,5,79995.0,Returned,Debit Card,Refunded
+O0095,C043,P017,2023-09-02,3,3897.0,Processing,Credit Card,Paid
+O0096,C018,P008,2024-02-06,8,23992.0,Delivered,UPI,Paid
+O0097,C045,P009,2024-04-24,9,44991.0,Delivered,EMI,Paid
+O0098,C044,P022,2023-08-06,7,5593.0,Shipped,Debit Card,Pending
+O0099,C042,P016,2022-10-23,9,13491.0,Pending,UPI,Paid
+O0100,C005,P007,2023-03-26,1,22999.0,Delivered,EMI,Paid
+O0101,C039,P018,2022-05-08,2,,Shipped,Credit Card,Paid
+O0102,C041,P005,2023-04-25,2,1998.0,Cancelled,Net Banking,Refunded
+O0103,C011,P024,2023-12-07,3,8997.0,Processing,Credit Card,Paid
+O0104,C035,P030,2022-11-08,9,206991.0,Returned,Debit Card,Refunded
+O0105,C047,P029,2023-12-18,1,5999.0,Delivered,Credit Card,Paid
+O0106,C016,P019,2023-02-17,6,8994.0,Delivered,Debit Card,Paid
+O0107,C011,P019,2022-10-06,10,7990.0,Shipped,UPI,Failed
+O0108,C030,P016,2023-05-28,9,22491.0,Delivered,Net Banking,Paid
+O0109,C025,P008,2023-07-07,3,17997.0,Returned,Credit Card,Refunded
+O0110,C018,P026,2023-05-21,7,,Returned,Credit Card,Refunded
+O0111,C041,P016,2023-03-25,3,8997.0,Delivered,EMI,Paid
+O0112,C045,P026,2022-03-24,1,4999.0,Processing,UPI,Pending
+O0113,C036,P014,2023-09-05,5,7495.0,Shipped,Credit Card,Paid
+O0114,C015,P007,2022-02-10,6,539994.0,Cancelled,EMI,Refunded
+O0115,C044,P004,2024-06-29,1,599.0,Delivered,Credit Card,Paid
+O0116,C021,P004,2023-03-19,6,17994.0,Returned,Debit Card,Pending Refund
+O0117,C054,P022,2024-01-23,4,7996.0,Shipped,Credit Card,Paid
+O0118,C050,P014,2022-11-27,4,3996.0,Delivered,Credit Card,Paid
+O0119,C050,P012,2023-09-11,2,,Processing,Credit Card,Paid
+O0120,C004,P014,2022-09-14,6,35994.0,Shipped,Net Banking,Failed
+O0121,C015,P014,2022-01-27,9,71991.0,Delivered,EMI,Paid
+O0122,C053,P015,2022-04-04,7,13993.0,Delivered,UPI,Paid
+O0123,C003,P028,2022-08-23,10,9990.0,Pending,Credit Card,Pending
+O0124,C052,P024,2023-11-22,3,2997.0,Processing,Debit Card,Paid
+O0125,C021,P002,2024-05-06,4,3196.0,Delivered,Debit Card,Paid
+O0126,C026,P022,2024-05-31,3,1797.0,Shipped,UPI,Paid
+O0127,C018,P021,2023-08-13,3,23997.0,Delivered,UPI,Paid
+O0128,C005,P021,2023-08-25,7,62993.0,Shipped,Debit Card,Failed
+O0129,C014,P004,2022-01-22,1,1999.0,Returned,Credit Card,Refunded
+O0130,C037,P002,2024-02-23,3,8997.0,Shipped,Net Banking,Paid
+O0131,C046,P013,2023-11-20,6,44994.0,Shipped,Credit Card,Paid
+O0132,C021,P024,2024-04-21,7,17493.0,Shipped,Debit Card,Pending
+O0133,C014,P011,2022-10-03,4,99996.0,Cancelled,Debit Card,Refunded
+O0134,C042,P026,2023-08-14,5,44995.0,Processing,Credit Card,Failed
+O0135,C032,P028,2022-02-11,3,5997.0,Pending,UPI,Pending
+O0136,C026,P004,2024-02-21,2,79998.0,Delivered,UPI,Paid
+O0137,C042,P008,2024-02-14,7,,Shipped,Cash on Delivery,Paid
+O0138,C030,P007,2022-06-29,1,1499.0,Processing,Credit Card,Paid
+O0139,C010,P007,2023-04-27,8,59992.0,Returned,Cash on Delivery,Pending Refund
+O0140,C017,P018,2023-06-16,4,63996.0,Cancelled,UPI,Refunded
+O0141,C009,P015,2023-10-30,4,63996.0,Shipped,Credit Card,Paid
+O0142,C016,P005,2023-03-29,8,71992.0,Processing,UPI,Failed
+O0143,C048,P014,2022-10-12,6,7794.0,Shipped,UPI,Pending
+O0144,C036,P006,2022-07-05,5,12495.0,Returned,UPI,Refunded
+O0145,C035,P009,2023-08-23,4,,Cancelled,Credit Card,Refunded
+O0146,C017,P015,2023-03-23,4,9996.0,Delivered,UPI,Paid
+O0147,C048,P008,2023-10-13,1,12999.0,Delivered,Debit Card,Paid
+O0148,C038,P028,2024-04-13,4,29996.0,Delivered,EMI,Paid
+O0149,C028,P030,2023-05-19,7,17493.0,Delivered,Credit Card,Paid
+O0150,C038,P003,2022-04-04,6,14994.0,Delivered,Net Banking,Paid
+O0151,C026,P015,2023-04-27,5,199995.0,Delivered,UPI,Paid
+O0152,C024,P026,2022-12-23,2,,Shipped,Debit Card,Pending
+O0153,C015,P028,2023-02-23,5,14995.0,Shipped,UPI,Pending
+O0154,C009,P028,2022-12-08,6,14994.0,Cancelled,UPI,Pending Refund
+O0155,C033,P018,2022-11-25,9,26991.0,Cancelled,UPI,Refunded
+O0156,C032,P004,2023-11-18,7,90993.0,Delivered,UPI,Paid
+O0157,C006,P002,2022-04-18,9,53991.0,Cancelled,UPI,Pending Refund
+O0158,C049,P021,2024-05-28,6,14994.0,Delivered,Net Banking,Paid
+O0159,C004,P018,2022-06-14,1,1299.0,Delivered,UPI,Paid
+O0160,C008,P027,2022-12-04,2,,Delivered,EMI,Paid
+O0161,C010,P001,2023-02-26,5,19995.0,Cancelled,UPI,Refunded
+O0162,C041,P003,2023-12-12,3,7497.0,Cancelled,Debit Card,Refunded
+O0163,C011,P030,2023-05-23,10,14990.0,Cancelled,Debit Card,Pending Refund
+O0164,C051,P025,2022-10-23,5,449995.0,Delivered,UPI,Paid
+O0165,C044,P028,2023-11-10,1,,Shipped,UPI,Pending
+O0166,C028,P008,2023-02-15,2,7998.0,Delivered,Credit Card,Paid
+O0167,C039,P006,2024-04-13,10,12990.0,Shipped,Credit Card,Failed
+O0168,C005,P014,2024-02-18,7,4193.0,Delivered,UPI,Paid
+O0169,C025,P016,2023-07-18,6,8994.0,Cancelled,Credit Card,Refunded
+O0170,C025,P016,2022-02-07,6,,Delivered,Credit Card,Paid
+O0171,C039,P007,2023-04-11,7,174993.0,Processing,Debit Card,Paid
+O0172,C030,P028,2022-04-01,10,9990.0,Delivered,Cash on Delivery,Paid
+O0173,C034,P013,2022-11-19,9,11691.0,Delivered,Debit Card,Paid
+O0174,C017,P029,2022-09-16,2,179998.0,Delivered,EMI,Paid
+O0175,C036,P002,2022-11-28,7,41993.0,Cancelled,Net Banking,Pending Refund
+O0176,C001,P006,2022-04-29,10,24990.0,Delivered,Credit Card,Paid
+O0177,C044,P013,2024-03-02,4,5996.0,Delivered,Net Banking,Paid
+O0178,C047,P001,2023-02-18,5,7495.0,Delivered,Debit Card,Paid
+O0179,C008,P013,2024-06-04,1,1499.0,Delivered,Net Banking,Paid
+O0180,C044,P009,2023-06-11,7,10493.0,Delivered,UPI,Paid
+O0181,C035,P030,2024-04-24,1,1299.0,Returned,Debit Card,Pending Refund
+O0182,C049,P026,2022-01-02,9,206991.0,Delivered,Credit Card,Paid
+O0183,C018,P026,2023-11-05,9,80991.0,Cancelled,Cash on Delivery,Pending Refund
+O0184,C050,P015,2024-06-09,4,2396.0,Delivered,Credit Card,Paid
+O0185,C042,P010,2023-07-10,6,53994.0,Shipped,Cash on Delivery,Failed
+O0186,C022,P014,2023-04-19,7,13993.0,Delivered,EMI,Paid
+O0187,C008,P023,2023-02-28,2,4998.0,Processing,UPI,Paid
+O0188,C019,P024,2022-02-25,6,3594.0,Delivered,Cash on Delivery,Paid
+O0189,C028,P026,2022-07-12,10,14990.0,Processing,Cash on Delivery,Pending
+O0190,C011,P018,2023-06-15,6,7794.0,Delivered,Net Banking,Paid
+O0005,C030,P022,2023-01-06,2,79998.0,Delivered,Debit Card,Paid
+O0023,C001,P023,2023-09-30,5,24995.0,Shipped,Net Banking,Failed
+O0041,C047,P016,2024-02-14,9,44991.0,Delivered,Credit Card,Paid
+O0067,C047,P005,2023-05-26,5,6495.0,Pending,Debit Card,Pending
+O0089,C017,P007,2023-10-03,7,9093.0,Shipped,Debit Card,Paid
+O0101,C033,P010,2023-03-29,6,8994.0,Pending,UPI,Paid
+O0123,C049,P007,2024-02-18,7,34993.0,Shipped,UPI,Pending
+O0145,C012,P002,2022-02-22,5,29995.0,Delivered,UPI,Paid
+O0167,C033,P019,2022-07-28,9,26991.0,Shipped,Net Banking,Failed
+O0189,C007,P024,2022-10-01,3,47997.0,Shipped,Cash on Delivery,Paid

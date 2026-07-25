@@ -1,0 +1,9 @@
+vendor_id,vendor_name,contact_email,city,rating,contract_start,contract_end,annual_spend_inr
+V001,TechWorld Supplies,sales@techworld.in,Mumbai,4.5,2019-04-01,2024-03-31,4500000.0
+V002,DigitalHub Pvt Ltd,info@digitalhub.in,Delhi,4.2,2020-01-15,2025-01-14,3200000.0
+V003,  StoragePro Inc  ,contact@storagepro.in,Bengaluru,3.9,2018-09-01,2023-08-31,2800000.0
+V004,AudioMax Ltd,support@audiomax.in,Hyderabad,4.7,2021-03-10,2026-03-09,5100000.0
+V005,OfficePro Furniture,orders@officepro.in,Pune,4.1,2020-07-22,2025-07-21,1900000.0
+V006,ConnectKart,hello@connectkart.in,Chennai,,2022-01-01,2024-12-31,
+V007,MOBILEZONE,deals@mobilezone.in,Mumbai,4.4,2019-11-05,2024-11-04,6700000.0
+V008,GadgetFirst,info@gadgetfirst.in,Delhi,3.8,2021-06-30,,2300000.0

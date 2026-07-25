@@ -1,0 +1,31 @@
+product_id,product_name,category,price_inr,stock_quantity,vendor_id,rating
+P001,Laptop Pro 15,Electronics,89999.0,45.0,V001,4.5
+P002,Wireless Mouse,Electronics,1499.0,230.0,V002,4.2
+P003,USB-C Hub,electronics,2999.0,180.0,V003,3.8
+P004,Mechanical Keyboard,Electronics,7499.0,95.0,V001,4.7
+P005,4K Monitor,Electronics,34999.0,62.0,V002,4.3
+P006,Noise Cancelling Headphones,Audio,15999.0,88.0,V003,4.6
+P007,Webcam HD,Audio,4999.0,145.0,V004,4.1
+P008,External SSD 1TB,Storage,12999.0,73.0,V003,4.4
+P009,Smart Speaker,Audio,8999.0,112.0,V004,4.0
+P010,Tablet Stand,Accessories,1999.0,320.0,V005,3.9
+P011,Ergonomic Chair,Furniture,24999.0,28.0,V005,4.8
+P012,Standing Desk,Furniture,39999.0,15.0,V005,4.5
+P013,Monitor Arm,Accessories,5999.0,67.0,V005,4.2
+P014,Cable Management Kit,Accessories,1299.0,410.0,V006,3.7
+P015,LED Desk Lamp,accessories,2499.0,189.0,V006,4.1
+P016,Laptop Bag,Accessories,2999.0,93.0,V001,4.3
+P017,Screen Protector,Accessories,599.0,560.0,V002,3.6
+P018,Keyboard Cover,Accessories,799.0,430.0,V003,3.9
+P019,Mouse Pad XL,Accessories,1499.0,275.0,V004,4.4
+P020,Power Bank 20000mAh,Electronics,3999.0,140.0,V002,4.2
+P021,Smartphone 128GB,Mobile,,,V007,
+P022,Smart Watch,Mobile,22999.0,78.0,V007,4.7
+P023,True Wireless Earbuds,mobile,7999.0,215.0,V007,4.5
+P024,Fitness Tracker,Mobile,4999.0,167.0,V007,4.0
+P025,Portable Charger,Mobile,2499.0,340.0,V007,4.3
+P026,Phone Case Pro,Mobile,1499.0,890.0,V008,3.8
+P027,Tempered Glass,Mobile,999.0,645.0,V008,4.1
+P028,Car Mount,Mobile,1299.0,380.0,V008,3.7
+P029,Bluetooth Speaker,Audio,5999.0,92.0,V004,4.6
+P030,Action Camera 4K,Mobile,,55.0,V007,4.4
